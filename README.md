@@ -60,7 +60,13 @@ Ejemplo:  X-auth-token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqdWFuQHJvZHJpZ3Vlei5vcmc
     "token": "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqdWFuQHJvZHJpZ3Vlei5vcmciLCJzdWIiOiJodW50ZXIyIiwiZXhwIjoxNzAwNzkyMzMwfQ.C8Axodoi6X7pbVoGDJaOCssQKBW7TFvxpvKkXjPx590"
 }
 ```
-POSTMAN COLLECTION: 
+Para la documentación con Swagger el Endpoint es el siguiente:
+http://localhost:8080/swagger-ui.html#/
+
+<img align="center"  src="https://github.com/imundo/TestPracticoJavaWork/blob/main/swaggerimagen.JPG">
+
+
+POSTMAN COLLECTION:
 
 ```json
 
@@ -159,9 +165,3 @@ POSTMAN COLLECTION:
   ]
 }
 ```
-
-
-
-Para la documentación con Swagger el Endpoint es el siguiente:
-/swagger-ui/index.html
-
