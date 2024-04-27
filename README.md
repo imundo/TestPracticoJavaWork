@@ -8,14 +8,14 @@ Endpoint: {path}/test/registro
 Body json:
 ```json
  {
-        "name": "Pedro Perez",
-        "email": "pedroPerez@gmail.org",
+        "name": "Isaac Mund",
+        "email": "imundo@gmail.com",
         "password": "Clave12345",
         "phones": [
             {
                 "number": "97777875",
                 "citycode": "3",			
-                "contrycode": "56"
+                "contrycode": "+56"
             }
         ]
 }
@@ -31,7 +31,7 @@ Body json:
 
 ```json
 {
-    "username": "pedroPerez@gmail.org",
+    "username": "imundo@gmail.com",
     "password" : "Clave12345"
 }
 
