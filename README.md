@@ -5,6 +5,7 @@
 Enviar el siguiente json para los registros:
 
 Endpoint: {path}/test/registro
+
 Body json:
 ```json
  {
@@ -27,6 +28,7 @@ Body json:
 Enviar username y password por ejemplo:
 
 Endpoint: {path}/test/login
+
 Body json:
 
 ```json
@@ -47,6 +49,7 @@ EndPoint:
 
 Se tiene que agregar el Header:
 X-auth-token : {token que se ha generado}
+
 Ejemplo:  X-auth-token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqdWFuQHJvZHJpZ3Vlei5vcmciLCJzdWIiOiJodW50ZXIyIiwiZXhwIjoxNzAwNzkyMzMwfQ.C8Axodoi6X7pbVoGDJaOCssQKBW7TFvxpvKkXjPx590
 
 ```json
